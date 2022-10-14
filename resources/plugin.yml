@@ -1,0 +1,20 @@
+name: AuthicationMC
+version: '${project.version}'
+main: ru.deevdenis.authicationmc.AuthicationMC
+api-version: 1.16
+authors: [deevdenis]
+description: Authentication on server
+
+commands:
+  authentication:
+    description: Sign in at the Server
+    aliases:
+      - login
+    usage: /login <password>
+
+  registration:
+    description: Sign up at the Server
+    aliases:
+      - registration
+      - reg
+    usage: /reg <Password> <Confirm password>
