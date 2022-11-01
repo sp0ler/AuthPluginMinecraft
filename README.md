@@ -3,10 +3,7 @@
 
 ### Description: ###
 Authentication and registration for Minecraft by Database PostgreSQL
-
-:
-> 
-
+ 
 
 ### Commands: ###
 1. ```/register <password> <confirmPassword> or /reg <password> <confirmPassword> ```
